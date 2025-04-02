@@ -6,3 +6,5 @@ pypdf
 beautifulsoup4
 langchain-text-splitters
 langchain-ollama
+langchain-huggingface
+sentence-transformers
