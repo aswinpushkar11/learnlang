@@ -5,3 +5,4 @@ langchain_community
 pypdf
 beautifulsoup4
 langchain-text-splitters
+langchain-ollama
