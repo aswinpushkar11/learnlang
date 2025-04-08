@@ -9,3 +9,4 @@ langchain-ollama
 langchain-huggingface
 sentence-transformers
 faiss-cpu
+chromadb
