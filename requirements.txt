@@ -11,3 +11,6 @@ sentence-transformers
 faiss-cpu
 chromadb
 streamlit
+langchain-openai
+langchain-groq
+langchain-core
