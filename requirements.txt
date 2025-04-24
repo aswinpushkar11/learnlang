@@ -14,3 +14,6 @@ streamlit
 langchain-openai
 langchain-groq
 langchain-core
+fastapi
+langserve
+sse_starlette
