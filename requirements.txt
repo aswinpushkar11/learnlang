@@ -17,3 +17,7 @@ langchain-core
 fastapi
 langserve
 sse_starlette
+langchain-chroma
+duckduckgo-search
+wikipedia
+arxiv
